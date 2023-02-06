@@ -1,4 +1,4 @@
-# 💫 Lari aqui!!:
+# 💫 Lari aqui!!
 📌Just a computer science student
 
 
