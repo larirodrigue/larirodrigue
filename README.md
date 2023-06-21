@@ -21,23 +21,22 @@ Estou no 4° semestre do curso Ciência da Computação na universidade UNIP. Em
 </p>
 
 ## 💪 O que eu posso fazer?
-![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
-
-![c#](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![html5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ## 📚 O que eu estou aprendendo?
-![.net](https://img.shields.io/badge/framework-512BD4?style=flat&logo=.net&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
