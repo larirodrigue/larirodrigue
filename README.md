@@ -1,18 +1,26 @@
-# 💫 Lari aqui!!
-📌Just a computer science student
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Lari Rodrigues</h1>
+<h5 align="center">
+A 4th-year student pursuing Bachelors in Computer science studies .I am a Data Science enthusiast, Web developer, and a Photographer. 
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=larirodrigue&label=Profile%20views&color=0e75b6&style=flat" alt="larirodrigue" /> </p>
+<p>
+<a align= "center" href="https://github.com/larirodrigue">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=larirodrigue&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=larirodrigue&count_private=true&theme=radical&show_icons=true" />
 
+- 📫 How to reach me **larissarodriguesn@hotmail.com**
+<br><br>
+<hr>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ragnarok#4475) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imlaari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-rodrigues-71401b201/) 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/larissa-rodrigues-71401b201/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Larissa Rodrigues" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/imlaari/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=larirodrigue&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=larirodrigue&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=larirodrigue&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=larirodrigue&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Snake animation](https://github.com/larirodrigue/larirodrigue/blob/output/github-contribution-grid-snake.svg)
+<hr>
