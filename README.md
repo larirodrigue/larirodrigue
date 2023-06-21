@@ -34,4 +34,9 @@ A 4th-year student pursuing Bachelors in Computer science studies .I am a Data S
 [![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
 [![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
 [![](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux)](#)
+![c#](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![.net](https://img.shields.io/badge/framework-512BD4?style=flat&logo=.net&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+
 
