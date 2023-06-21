@@ -24,3 +24,14 @@ A 4th-year student pursuing Bachelors in Computer science studies .I am a Data S
 </p>
 
 <hr>
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python)](#) 
+[![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#) 
+[![](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=CSS3)](#) 
+[![](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)](#) 
+[![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
+[![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
+[![](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux)](#)
+
