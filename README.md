@@ -22,6 +22,7 @@ Estou no 4° semestre do curso Ciência da Computação na universidade UNIP. Em
 
 ## 💪 O que eu posso fazer?
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
+
 ![c#](https://img.shields.io/badge/C_Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,6 +31,9 @@ Estou no 4° semestre do curso Ciência da Computação na universidade UNIP. Em
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ## 📚 O que eu estou aprendendo?
 ![.net](https://img.shields.io/badge/framework-512BD4?style=flat&logo=.net&logoColor=white)
