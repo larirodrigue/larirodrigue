@@ -1,4 +1,4 @@
-# Muito Prazer eu sou Lari 😁
+# Muito Prazer!! Eu sou Lari 😁
 <h5 align="center">
 Estou no 4° semestre do curso Ciência da Computação na universidade UNIP. Em aprendizado com as linguagens de programação (web, mobile e desktop) 
 </h5>
