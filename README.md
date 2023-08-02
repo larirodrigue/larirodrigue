@@ -40,4 +40,4 @@ Estou no 4° semestre do curso Ciência da Computação na universidade UNIP. Em
 
 
 <!--END_SECTION:data-section-->
-![github contribution grid snake animation](https://raw.githubusercontent.com/ViniciusAparecido/ViniciusAparecido/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ViniciusAparecido/ViniciusAparecido/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/larirodrigue/larirodrigue/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/larirodrigue/larirodrigue/output/github-contribution-grid-snake.svg#gh-light-mode-only)
