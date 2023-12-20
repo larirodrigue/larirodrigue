@@ -1,6 +1,6 @@
 # Muito Prazer!! Eu sou Lari 😁
 <h5 align="center">
-Estou no 4° semestre do curso Ciência da Computação na universidade UNIP. Em aprendizado com as linguagens de programação (web, mobile e desktop) 
+Estou no 5° semestre do curso Ciência da Computação na universidade UNIP. Em aprendizado com as linguagens de programação (web, mobile e desktop) 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larirodrigue&label=Profile%20views&color=0e75b6&style=flat" alt="larirodrigue" /> </p>
 <p>
